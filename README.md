@@ -91,6 +91,6 @@ Algorithm	Random Forest
 
 🙋‍♂️ Author
 Bharat Mandge
-🎓 Aspiring Data Scientist | Python Developer
+🎓 Aspiring Data Scientist
 🌐 GitHub
 🔗 LinkedIn(https://www.linkedin.com/in/bharat-mandge/)
