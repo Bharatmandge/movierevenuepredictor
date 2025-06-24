@@ -11,7 +11,8 @@ A Machine Learning-powered web app built using **Streamlit** that predicts the b
 - 🤖 Machine Learning model for revenue prediction  
 - 💻 Interactive Streamlit web application  
 - 💾 Model training & saving using joblib/pickle  
-- 📈 Real-time predictions using user inputs  
+- 📈 Real-time predictions using user inputs
+- Use to predict the revenue of the movie
 
 ---
 
@@ -85,8 +86,7 @@ Source: Kaggle - TMDB Movie Dataset
 
 ⚙️ Model Performance
 Metric	Value
-R² Score	~0.82
-MAE	~18 Million USD
+R² Score	~0.8
 Algorithm	Random Forest
 
 🙋‍♂️ Author
